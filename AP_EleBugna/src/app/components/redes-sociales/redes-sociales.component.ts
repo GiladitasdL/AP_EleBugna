@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './redes-sociales.component.html',
   styleUrls: ['./redes-sociales.component.css']
 })
-export class RedesSocilesComponent implements OnInit {
+export class RedesSocialesComponent implements OnInit {
 
   constructor() { }
 
